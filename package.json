@@ -1,0 +1,25 @@
+{
+  "name": "kosmtik-project-editor",
+  "version": "0.0.1",
+  "description": "Add project editing (mml/yaml) to your Kosmtik project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kosmtik",
+    "project",
+    "editor"
+  ],
+  "author": "Florian Falkner",
+  "license": "WTFPL",
+  "dependencies": {
+    "js-yaml": "^3.4.2",
+    "sortablejs": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kosmtik/kosmtik-overpass-layer.git"
+  },
+  "kosmtik": ">=0.0.6"
+}
