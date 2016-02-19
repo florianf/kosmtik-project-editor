@@ -1,8 +1,7 @@
 # General Info kosmtik-project-editor
 
 Add basic project editing capabilities to your Kosmtik project.
-
-Because of it's immaturity the plugin isn't published via NPM yet, this may happen in the feature.
+Because of it's immaturity the plugin isn't published via NPM yet, this may happen in the future.
 
 # Features
 
