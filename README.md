@@ -24,3 +24,7 @@ Minimal required config file:
 
 	plugins:
 	  - PUT_PARENT_DIRECTORY_HERE/kosmtik-project-editor/index.js
+
+# Warning
+
+Make a backup of your project file before using this plugin, this is alpha state software!
