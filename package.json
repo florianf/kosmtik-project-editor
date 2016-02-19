@@ -1,7 +1,7 @@
 {
   "name": "kosmtik-project-editor",
   "version": "0.0.1",
-  "description": "Add project editing (mml/yaml) to your Kosmtik project",
+  "description": "Add project editing to your Kosmtik project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kosmtik/kosmtik-overpass-layer.git"
+    "url": "git://github.com/florianf/kosmtik-project-editor.git"
   },
   "kosmtik": ">=0.0.6"
 }
