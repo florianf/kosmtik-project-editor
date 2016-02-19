@@ -9,7 +9,7 @@ Because of it's immaturity the plugin isn't published via NPM yet, this may happ
 
 ## Screenshot
 
-![screenshot](https://raw.github.com/florianf/kosmtik-project-editor/master/screenshot.png "Screenshot of Project Editor")
+![screenshot](https://raw.github.com/florianf/kosmtik-project-editor/master/screenshot.jpg "Screenshot of Project Editor")
 
 # Installation
 
