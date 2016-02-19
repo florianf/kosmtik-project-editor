@@ -7,6 +7,10 @@ Because of it's immaturity the plugin isn't published via NPM yet, this may happ
 
 - Sort project layers with Drag & Drop
 
+## Screenshot
+
+![screenshot](https://raw.github.com/florianf/kosmtik-project-editor/master/screenshot.png "Screenshot of Project Editor")
+
 # Installation
 
 To install from source do:
